@@ -10,5 +10,6 @@ int main(){
     cout<<"mendezxbarraza";
     cout<<"chaparro>>>";
     cout<<"moriGOD";
+    cout<<"WAZAAAAAAAAAAAAAAAAAAAAAAAA"<<endl;
     return 0;
 }
