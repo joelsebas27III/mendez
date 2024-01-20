@@ -7,5 +7,6 @@ int main(){
     cout<<"ola rigoberto";
     cout<<"mendezxmori";
     cout<<"morixtirado";
+    cout<<"mendezxbarraza";
     return 0;
 }
