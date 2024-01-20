@@ -6,5 +6,6 @@ int main(){
     holamori();
     cout<<"ola rigoberto";
     cout<<"mendezxmori";
+    cout<<"morixtirado";
     return 0;
 }
