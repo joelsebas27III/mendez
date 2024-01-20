@@ -9,5 +9,6 @@ int main(){
     cout<<"morixtirado";
     cout<<"mendezxbarraza";
     cout<<"chaparro>>>";
+    cout<<"moriGOD";
     return 0;
 }
